@@ -6,6 +6,7 @@ public class Ave extends Animal{
 	public Ave () {
 		super();
 		setNombre("Ave");
+		
 	}
 	
 	public void moverse() {
