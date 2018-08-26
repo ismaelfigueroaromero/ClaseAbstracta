@@ -2,8 +2,10 @@
 public abstract class Animal {
 	
 	private String nombre;
+	
 	//cambio 1
 	//cambio 2
+	//Cambio 3 ismaelito
 	//Se crea el constructor, clase Padre, super clase. en este caso vacio
 	public Animal() {	
 	}
